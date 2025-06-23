@@ -30,13 +30,14 @@
 
 ### 📌Frameworks & Libraries
 <!--Spring Boot-->
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+
 <!--Spring Security-->
 <img src="https://img.shields.io/badge/springsecurity-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
 <!--Scikit-learn-->
 <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
 <!--Scikit-learn-->
-<img src="https://img.shields.io/badge/unity-FFFFFF?style=flat-square&logo=unity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=white"/>
 
 ## 📌Database
 <!--MySQL-->
@@ -46,7 +47,8 @@
 
 ### 📌DevOps & Infra
   <!--Amazon AWS-->
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
+  <!--Slack-->
 <!--Docker-->
 <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 <!--nginx-->
