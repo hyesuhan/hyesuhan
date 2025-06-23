@@ -20,14 +20,13 @@
 
 ---
 <!-- 🐍 Snake SVG -->
-<img src="https://raw.githubusercontent.com/hyesuhan/hyesuhan/output/dist/github-snake.svg" width="100%" />
+![github-snake](https://github.com/hyesuhan/hyesuhan/blob/output/dist/github-snake.svg?raw=true)
 
 <!-- 🌙 다크모드 -->
-<img src="https://raw.githubusercontent.com/hyesuhan/hyesuhan/output/dist/github-snake-dark.svg" width="100%" />
+![github-snake-dark](https://github.com/hyesuhan/hyesuhan/blob/output/dist/github-snake-dark.svg?raw=true)
 
 <!-- 🌊 Ocean GIF -->
-<img src="https://raw.githubusercontent.com/hyesuhan/hyesuhan/output/dist/ocean.gif" width="100%" />
-
+![ocean snake gif](https://github.com/hyesuhan/hyesuhan/blob/output/dist/ocean.gif?raw=true)
 
 ---
 
