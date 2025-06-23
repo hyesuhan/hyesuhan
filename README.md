@@ -1,11 +1,10 @@
-
 <!--Header-->
-![header](https://capsule-render.vercel.app/api?type=Venom&color=gradient&height=200&text=Hi%2C%20I'm%20hyesuhan%20👩‍💻&fontSize=40&fontAlign=70&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:434343&height=200&text=I'm%20Hyesuhan&fontColor=ffffff&fontSize=40&fontAlign=50&fontAlignY=50)
 
 ---
 <!--Body-->
-## About Me
-### :raising_hand: BackEnd Developer from South Korea <br/>
+## :raising_hand: About Me
+### :earth_asia: BackEnd Developer from South Korea <br/>
 ### :computer: Hongik University 2022 ~ 재학 중 
 ### :art: CareerForMe Project (BE)
 ### :art: ShowHoo Project (BE)
@@ -47,7 +46,7 @@
 
 ### 📌DevOps & Infra
   <!--Amazon AWS-->
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
   <!--Slack-->
 <!--Docker-->
 <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
