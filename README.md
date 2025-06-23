@@ -1,5 +1,6 @@
 <!--Header-->
-![header](https://capsule-render.vercel.app/api?type=waving&color=linear-gradient(90deg,%2300F0FF,%2366FFCC,%2300BFFF,%233399FF,%23E0FFFF)&height=300&text=I'm%20Hyesuhan&fontColor=ffffff&fontSize=50&fontAlign=50&fontAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=rect&color=linear-gradient(90deg,%2300f0ff,%2366ffcc,%2300bfff,%233399ff,%23e0ffff)&height=300&text=I'm%20Hyesuhan&fontColor=ffffff&fontSize=55&fontAlign=50&fontAlignY=50)
+
 
 ---
 
@@ -17,16 +18,6 @@
 🛠️ **DearDream** – Family Memory Web App (In Progress) | *Back-End*  
 📊 **Naver Data Science with Python** – *Team Leader & Analyst*  
 🎮 **Unity Game Project** – Escape Room Puzzle | *Developer*
-
----
-<!-- 🐍 Snake SVG -->
-![github-snake](https://github.com/hyesuhan/hyesuhan/blob/output/dist/github-snake.svg?raw=true)
-
-<!-- 🌙 다크모드 -->
-![github-snake-dark](https://github.com/hyesuhan/hyesuhan/blob/output/dist/github-snake-dark.svg?raw=true)
-
-<!-- 🌊 Ocean GIF -->
-![ocean snake gif](https://github.com/hyesuhan/hyesuhan/blob/output/dist/ocean.gif?raw=true)
 
 ---
 
