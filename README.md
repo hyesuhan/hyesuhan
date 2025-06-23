@@ -1,6 +1,6 @@
 
 <!--Header-->
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&text=Hi%2C%20I'm%20hyesuhan%20👩‍💻&fontSize=40&fontAlign=70&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=Venom&color=gradient&height=200&text=Hi%2C%20I'm%20hyesuhan%20👩‍💻&fontSize=40&fontAlign=70&fontAlignY=40)
 
 ---
 <!--Body-->
@@ -21,7 +21,7 @@
 <!--Spring-->
 <img src="https://img.shields.io/badge/Spring-#6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 <!--C++-->
-<img src="https://img.shields.io/badge/cplusplus-#00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-#00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
 <!--C#-->
 <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
 <!--Python-->
@@ -30,12 +30,11 @@
 
 ### 📌Frameworks & Libraries
 <!--Spring Boot-->
-<img src="https://img.shields.io/badge/springboot-#6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring Boot-#6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
 <!--Spring Security-->
 <img src="https://img.shields.io/badge/springsecurity-#6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
 <!--Scikit-learn-->
 <img src="https://img.shields.io/badge/scikitlearn-#F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-// Unity
 <!--Scikit-learn-->
 <img src="https://img.shields.io/badge/unity-#FFFFFF?style=flat-square&logo=unity&logoColor=white"/>
 
