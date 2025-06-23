@@ -1,5 +1,5 @@
 <!--Header-->
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:434343&height=200&text=I'm%20Hyesuhan&fontColor=ffffff&fontSize=40&fontAlign=50&fontAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=venom&color=8e2de2,e94057,f27121&text=I'm%20Hyesuhan&height=200&fontColor=ffffff&fontSize=40&fontAlign=50&fontAlignY=50)
 
 ---
 <!--Body-->
