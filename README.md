@@ -19,14 +19,15 @@
 🎮 **Unity Game Project** – Escape Room Puzzle | *Developer*
 
 ---
-<!-- 🐍 Snake SVG-->
-![github-snake](https://github.com/hyesuhan/hyesuhan/blob/output/dist/github-snake.svg)
+<!-- 🐍 Snake SVG -->
+<img src="https://raw.githubusercontent.com/hyesuhan/hyesuhan/output/dist/github-snake.svg" width="100%" />
 
-<!-- 🌙 다크 모드 대응-->
-![github-snake-dark](https://github.com/hyesuhan/hyesuhan/blob/output/dist/github-snake-dark.svg)
+<!-- 🌙 다크모드 -->
+<img src="https://raw.githubusercontent.com/hyesuhan/hyesuhan/output/dist/github-snake-dark.svg" width="100%" />
 
-<!-- 🌊 Ocean GIF-->
-![ocean snake gif](https://github.com/hyesuhan/hyesuhan/blob/output/dist/ocean.gif)
+<!-- 🌊 Ocean GIF -->
+<img src="https://raw.githubusercontent.com/hyesuhan/hyesuhan/output/dist/ocean.gif" width="100%" />
+
 
 ---
 
