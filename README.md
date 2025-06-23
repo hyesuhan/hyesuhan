@@ -1,5 +1,5 @@
 <!--Header-->
-![header](https://capsule-render.vercel.app/api?type=venom&color=8e2de2,e94057,f27121&text=I'm%20Hyesuhan&height=200&fontColor=ffffff&fontSize=40&fontAlign=50&fontAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&text=I'm%20Hyesuhan&fontColor=ffffff&fontSize=45&fontAlign=50&fontAlignY=50)
 
 ---
 <!--Body-->
@@ -12,7 +12,6 @@
 ### :art: DearDream Project ~ (BE)
 ### :art: Naver Data Science with Python (Leader)
 ### :art: Unity Game Project
-
 --
 
 ## 🛠 Tech Stack
