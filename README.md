@@ -2,17 +2,23 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&text=I'm%20Hyesuhan&fontColor=ffffff&fontSize=45&fontAlign=50&fontAlignY=50)
 
 ---
-<!--Body-->
-## :raising_hand: About Me
-### :earth_asia: BackEnd Developer from South Korea <br/>
-### :computer: Hongik University 2022 ~ 재학 중 
-### :art: CareerForMe Project (BE)
-### :art: ShowHoo Project (BE)
-### :art: Todoing Project ~ (BE)
-### :art: DearDream Project ~ (BE)
-### :art: Naver Data Science with Python (Leader)
-### :art: Unity Game Project
---
+
+## 🙋‍♀️ About Me
+
+🎓 **Hongik University** (2022~)  
+💻 **Back-End Developer** based in South Korea  
+🧠 Passionate about **clean architecture**, **RESTful API**, and **team collaboration**
+
+---
+## 🛠️ Experience & Projects
+🎨 **CareerForMe** – Career Match Service | *Back-End*  
+🎨 **ShowHoo** – Venue & Concert Platform | *Back-End*  
+🛠️ **Todoing** – AI Todo Service (In Progress) | *Back-End*  
+🛠️ **DearDream** – Family Memory Web App (In Progress) | *Back-End*  
+📊 **Naver Data Science with Python** – *Team Leader & Analyst*  
+🎮 **Unity Game Project** – Escape Room Puzzle | *Developer*
+
+---
 
 <h2 align="center">🛠 Tech Stack</h2>
 
