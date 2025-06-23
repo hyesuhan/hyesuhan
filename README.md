@@ -1,5 +1,6 @@
 <!--Header-->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&text=I'm%20Hyesuhan&fontColor=ffffff&fontSize=45&fontAlign=50&fontAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=FEC8D8,FFB6B9,F8E1F4,AFCBFF,B5EAD7&height=250&text=I'm%20Hyesuhan&fontColor=ffffff&fontSize=45&fontAlign=50&fontAlignY=50)
+
 
 ---
 
@@ -52,9 +53,8 @@
   <img src="https://img.shields.io/badge/githubactions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
 </p>
 
-## 📊Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyesuhan)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyesuhan&layout=compact&langs_count=10&hide=html,css,dockerfile)](https://github.com/anuraghazra/github-readme-stats)
+<h2 align="center">📊 GitHub Stats</h2>
 
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hyesuhan&show_icons=true&theme=default" alt="GitHub Stats" />
+</p>
