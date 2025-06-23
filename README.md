@@ -1,5 +1,5 @@
 <!--Header-->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00F0FF,66FFCC,00BFFF,3399FF,E0FFFF&height=300&text=I'm%20Hyesuhan&fontColor=ffffff&fontSize=50&fontAlign=50&fontAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=linear-gradient(90deg,%2300F0FF,%2366FFCC,%2300BFFF,%233399FF,%23E0FFFF)&height=300&text=I'm%20Hyesuhan&fontColor=ffffff&fontSize=50&fontAlign=50&fontAlignY=50)
 
 ---
 
