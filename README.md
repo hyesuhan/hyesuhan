@@ -53,8 +53,3 @@
   <img src="https://img.shields.io/badge/githubactions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
 </p>
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hyesuhan&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
