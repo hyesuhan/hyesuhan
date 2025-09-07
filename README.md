@@ -6,7 +6,7 @@
 
 ## 🙋‍♀️ About Me
 
-🎓 **Hongik University** (2022~)  
+🎓 **University** (2022~)  
 💻 **Back-End Developer** based in South Korea  
 🧠 Passionate about **clean architecture**, **RESTful API**, and **team collaboration**
 
