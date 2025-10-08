@@ -14,8 +14,8 @@
 ## 🛠️ Experience & Projects
 🎨 **CareerForMe** – Career Match Service | *Back-End*  
 🎨 **ShowHoo** – Venue & Concert Platform | *Back-End*  
-🛠️ **Todoing** – AI Todo Service (In Progress) | *Back-End*  
-🛠️ **DearDream** – Family Memory Web App (In Progress) | *Back-End*  
+🎨 **Todoing** – AI Todo Service | *Back-End*  
+🎨  **DearDream** – Family Memory Web App | *Back-End*  
 📊 **Naver Data Science with Python** – *Team Leader & Analyst*  
 🎮 **Unity Game Project** – Escape Room Puzzle | *Developer*
 
