@@ -1,6 +1,13 @@
 <!--Header-->
 ![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=00f0ff,66ffcc,00bfff,3399ff,e0ffff&height=300&text=I'm%20Hyesuhan&fontColor=ffffff&fontSize=55&fontAlign=50&fontAlignY=50)
 
+<!-- 🐍 Snake SVG -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hyesuhan/hyesuhan/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hyesuhan/hyesuhan/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/hyesuhan/hyesuhan/output/github-snake.svg" width="100%" />
+</picture>
+
 ---
 
 ## 🙋‍♀️ About Me
