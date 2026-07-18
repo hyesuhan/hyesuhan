@@ -8,6 +8,10 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/hyesuhan/hyesuhan/output/github-snake.svg" width="100%" />
 </picture>
 
+
+<!-- 3D rendered -->
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 ---
 
 ## 🙋‍♀️ About Me
